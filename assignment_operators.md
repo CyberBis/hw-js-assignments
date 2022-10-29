@@ -7,7 +7,7 @@ Assignment operators assign values to JavaScript variables.
 | =        | x = y     | x = y        |
 | +=       | x += y    | x = x + y    |
 | -=       | x -= y    | x = x - y    |
-| \_=      | x \_= y   | x = x \* y   |
+| \*=      | x \*= y   | x = x \* y   |
 | /=       | x /= y    | x = x / y    |
 | %=       | x %= y    | x = x % y    |
 | \*\*=    | x \*\*= y | x = x \*\* y |
